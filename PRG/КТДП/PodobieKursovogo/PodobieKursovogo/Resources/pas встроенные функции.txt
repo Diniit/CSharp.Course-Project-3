@@ -1,0 +1,1 @@
+abs arctan cos exp frac pi sin sqr sqrt random round trunc 

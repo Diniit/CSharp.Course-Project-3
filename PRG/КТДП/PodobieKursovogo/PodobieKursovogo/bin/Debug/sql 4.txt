@@ -1,0 +1,1 @@
+exists option others pragma commit having public create record cursor insert rename debugon declare decimal limited default natural dispose nextval between boolean package cluster pctfree colauth 

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PodobieKursovogo.Trenazher">
+    <Position X="1" Y="1" Width="2.25" />
+    <Members>
+      <Method Name="b_sprav_Click" Hidden="true" />
+      <Method Name="b_zhad_Click" Hidden="true" />
+      <Method Name="b_zhad1_Click" Hidden="true" />
+      <Method Name="b_zhad2_Click" Hidden="true" />
+      <Method Name="button9_Click" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form1_Load" Hidden="true" />
+      <Method Name="Form1_MouseMove" Hidden="true" />
+      <Method Name="pb_exit_Click" Hidden="true" />
+      <Method Name="pb_exit_MouseLeave" Hidden="true" />
+      <Method Name="pb_exit_MouseMove" Hidden="true" />
+      <Method Name="pb_minim_Click" Hidden="true" />
+      <Method Name="pb_minim_MouseLeave" Hidden="true" />
+      <Method Name="pb_minim_MouseMove" Hidden="true" />
+      <Method Name="pictureBox1_Click" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>VR0AqAQDAHwJDQIEMGCsAn9qocVSI0UAVN0pASr4KYU=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PodobieKursovogo.Program">
+    <Position X="4" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

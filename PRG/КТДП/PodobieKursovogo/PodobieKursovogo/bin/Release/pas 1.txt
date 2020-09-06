@@ -1,0 +1,1 @@
+of to if on in is or as do ln abs sqr mod var and cos end new eof nil set try not ord shl div for shr asm exp 

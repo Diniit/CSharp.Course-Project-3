@@ -1,0 +1,44 @@
+C:\Users\mtx\source\repos\PodobieKursovogo\PodobieKursovogo\bin\Debug\PodobieKursovogo.exe.config
+C:\Users\mtx\source\repos\PodobieKursovogo\PodobieKursovogo\bin\Debug\PodobieKursovogo.exe
+C:\Users\mtx\source\repos\PodobieKursovogo\PodobieKursovogo\bin\Debug\PodobieKursovogo.pdb
+C:\Users\mtx\source\repos\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.csprojAssemblyReference.cache
+C:\Users\mtx\source\repos\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.Form1.resources
+C:\Users\mtx\source\repos\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.Properties.Resources.resources
+C:\Users\mtx\source\repos\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.csproj.GenerateResource.cache
+C:\Users\mtx\source\repos\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.exe
+C:\Users\mtx\source\repos\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.pdb
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.csprojAssemblyReference.cache
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.Properties.Resources.resources
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.csproj.GenerateResource.cache
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.csproj.CopyComplete
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Debug\MaterialSkin.dll
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Debug\Тренажер для программиста.exe.config
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Debug\Тренажер для программиста.exe
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Debug\Тренажер для программиста.pdb
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Debug\Тренажер для программиста.exe
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Debug\Тренажер для программиста.pdb
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.csproj.CoreCompileInputs.cache
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.Trenazher.resources
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\bin\Debug\Тренажер для программиста.exe.config
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\bin\Debug\Тренажер для программиста.exe
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\bin\Debug\Тренажер для программиста.pdb
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\bin\Debug\en\Тренажер для программиста.resources.dll
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\bin\Debug\ru\Тренажер для программиста.resources.dll
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\bin\Debug\MaterialSkin.dll
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.csprojAssemblyReference.cache
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.Trenazher.resources
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.Properties.Resources.resources
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.Trenazher.en.resources
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.Trenazher.ru.resources
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.csproj.GenerateResource.cache
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.csproj.CoreCompileInputs.cache
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\en\Тренажер для программиста.resources.dll
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\ru\Тренажер для программиста.resources.dll
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.csproj.CopyComplete
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\Тренажер для программиста.exe
+C:\Users\mtx\Documents\PodobieKursovogo\PodobieKursovogo\obj\Debug\Тренажер для программиста.pdb
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Debug\PodobieKursovogo.MessageBox.resources

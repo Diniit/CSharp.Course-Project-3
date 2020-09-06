@@ -1,0 +1,15 @@
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Release\Тренажер для программиста.exe.config
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Release\Тренажер для программиста.exe
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Release\Тренажер для программиста.pdb
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Release\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Release\AudioSwitcher.AudioApi.dll
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\bin\Release\MaterialSkin.dll
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Release\PodobieKursovogo.csprojAssemblyReference.cache
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Release\PodobieKursovogo.Trenazher.resources
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Release\PodobieKursovogo.MessageBox.resources
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Release\PodobieKursovogo.Properties.Resources.resources
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Release\PodobieKursovogo.csproj.GenerateResource.cache
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Release\PodobieKursovogo.csproj.CoreCompileInputs.cache
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Release\PodobieKursovogo.csproj.CopyComplete
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Release\Тренажер для программиста.exe
+C:\Users\mtx\Desktop\PodobieKursovogo\PodobieKursovogo\obj\Release\Тренажер для программиста.pdb

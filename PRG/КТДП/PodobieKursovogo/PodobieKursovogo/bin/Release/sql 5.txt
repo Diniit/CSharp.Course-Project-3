@@ -1,0 +1,1 @@
+columns generic private connect current indexes release currval integer resourceintersectdebugoff arraylen mlslabel distinct clusters function positive compress constant database exception partition procedure indicator definition nocompress identified authorization 

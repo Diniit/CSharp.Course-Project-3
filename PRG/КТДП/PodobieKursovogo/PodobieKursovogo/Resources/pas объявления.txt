@@ -1,0 +1,1 @@
+program uses label const type var procedure function begin end 

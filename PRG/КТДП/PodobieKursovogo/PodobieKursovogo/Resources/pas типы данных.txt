@@ -1,0 +1,1 @@
+byte shortint integer word longint real single double extended comp boolean array of char string 

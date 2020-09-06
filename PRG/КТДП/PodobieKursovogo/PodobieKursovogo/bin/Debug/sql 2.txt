@@ -1,0 +1,1 @@
+date into like loop desc drop else null body open case exit char out close form from goto real open case exit char out close form from goto real 
